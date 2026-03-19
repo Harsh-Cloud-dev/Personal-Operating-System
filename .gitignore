@@ -1,1 +1,3 @@
 .git
+stage0/boot.bin
+stage1/pm_entry.bin
